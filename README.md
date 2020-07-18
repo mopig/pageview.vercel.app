@@ -7,7 +7,14 @@
 
 Visitors badge on [Vercel](https://vercel.com/) and [FaunaDB](https://fauna.com/).
 
-## Deploy Your Visitors Badge to Vercel and FaunaDB
+## Usage
+
+```javascript
+// [identifier] is path or query
+`https://pageview.vercel.app${identifier}`
+```
+
+## Or Deploy Your Visitors Badge to Vercel and FaunaDB
 
 1. [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/mopig/pageview.vercel.app)
 
